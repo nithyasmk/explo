@@ -1,5 +1,5 @@
-# Set the Working Directory
-setwd("~/GitHub/ExData_Plotting1")
+o# Set the Working Directory
+setwd("~/GitHub/explo")
 
 if (!file.exists("./data/PowerConsumption.csv")) {
   # Read the Data to a data frame
